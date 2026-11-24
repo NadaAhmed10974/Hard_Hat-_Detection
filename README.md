@@ -24,6 +24,19 @@ Technologies Used
 Dataset
 
 Dataset: Hard Hat Workers
+Dataset Source
+
+The dataset used in this project is Hard Hat Workers, provided by Northeastern University – China through Roboflow Universe.
+
+- Source: "Roboflow – Hard Hat Workers" (https://universe.roboflow.com/joseph-nelson/hard-hat-workers)
+- Task: Object Detection
+- Classes: Head, Helmet, Person
+- License: Public Domain
+- Dataset Format: YOLO
+
+The dataset was downloaded from Roboflow and used for training and evaluation.
+
+The dataset files are not included in this repository. Please visit the original source to access and download the dataset.
 
 Classes:
 
