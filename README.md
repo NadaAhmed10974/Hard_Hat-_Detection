@@ -80,8 +80,16 @@ The model is evaluated using:
 - mAP@50
 - mAP@50-95
 
-Actual evaluation results will be added after running the final notebook.
+ ## Model Results
 
+### Confusion Matrix
+![Confusion Matrix](results/confusion_matrix.png)
+
+### Training Results
+![Training Results](results/results.png)
+
+### Validation Predictions
+![Validation Predictions](results/val_batch0_pred.jpg)
 Future Improvements
 
 - Improve detection of underrepresented classes.
