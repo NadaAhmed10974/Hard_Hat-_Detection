@@ -82,14 +82,14 @@ The model is evaluated using:
 
  ## Model Results
 
-### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+ ### Normalized Confusion Matrix
+![Normalized Confusion Matrix](results/confusion_matrix_normalized.png)
 
 ### Training Results
 ![Training Results](results/results.png)
 
 ### Validation Predictions
-![Validation Predictions](results/val_batch0_pred.jpg)
+![Validation Predictions](results/val_batch1_labels.jpg)
 Future Improvements
 
 - Improve detection of underrepresented classes.
